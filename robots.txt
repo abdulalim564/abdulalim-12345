@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://upcomingmobiles.com/sitemap.xml
+Sitemap: https://www.upcomingmobiles.com/sitemap.xml
